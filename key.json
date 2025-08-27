@@ -6,4 +6,12 @@
     "max_devices": 1,
     "used_devices": 0
   }
+,
+  {
+    "key": "KEY-45K65L2",
+    "expire": "2026-09-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
 ]
