@@ -30,4 +30,12 @@
     "max_devices": 1,
     "used_devices": 0
   }
+, 
+  {
+    "key": "KEY-BOXVIETVU",
+    "expire": "202-08-29",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
 ]
