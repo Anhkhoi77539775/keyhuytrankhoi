@@ -30,4 +30,20 @@
     "max_devices": 1,
     "used_devices": 0
   }
+,
+  {
+    "key": "testnet",
+    "expire": "2025-11-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+,
+  {
+    "key": "FREEVIETVU",
+    "expire": "2025-11-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
 ]
