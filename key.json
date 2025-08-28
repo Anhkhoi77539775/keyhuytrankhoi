@@ -8,25 +8,24 @@
   }
 ,
   {
-    "key": "KEY-45K65L2",
-    "expire": "2026-09-30",
-    "hwid": "",
-    "max_devices": 1,
-    "used_devices": 0
-  }
-,
-  {
     "key": "KEY-FREE3",
     "expire": "2025-08-30",
     "hwid": "",
     "max_devices": 1,
     "used_devices": 0
   }
-
 , 
   {
-    "key": "KEY-BOXVIETVU",
-    "expire": "2025-08-29",
+    "key": "KEY-TRKIEN",
+    "expire": "2025-11-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+, 
+  {
+    "key": "admin",
+    "expire": "2025-11-30",
     "hwid": "",
     "max_devices": 1,
     "used_devices": 0
